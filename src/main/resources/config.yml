@@ -1,0 +1,46 @@
+starter-kits:
+  all-jobs:
+    - iron_shovel
+    - white_bed
+    - cooked_beef:8
+  scout:
+    - saddle
+  ranger:
+  support:
+    - iron_pickaxe:1:unbreaking.3,fortune.2
+  spy:
+evo-experience:
+  weapons:
+    sword:
+      player_kill: 200
+      flag_theft_kill: 250
+      hostile_mob_kill: 10
+      passive_mob_kill: 2
+    bow:
+      player_hit: 25
+      player_kill: 200
+      flag_theft_kill: 250
+      hostile_mob_kill: 10
+      passive_mob_kill: 2
+    axe:
+      player_kill: 200
+      flag_theft_kill: 250
+      hostile_mob_kill: 10
+      passive_mob_kill: 2
+  tools:
+    pickaxe:
+      appropriate_block_mined: 1
+      t1_ore_mined: 5
+      t2_ore_mined: 15
+      t3_ore_mined: 30
+    axe:
+      appropriate_block_mined: 1
+      log_mined: 10
+  armor:
+    player_attack: 15
+    player_arrow_attack: 75
+    entity_attack: 10
+    entity_sweep_attack: 10
+    projectile: 10
+    fall: 5
+    other: 1

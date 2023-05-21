@@ -1,0 +1,16 @@
+name: BreadWars
+version: '${project.version}'
+main: me.cookiehunterrr.breadwars.BreadWars
+api-version: 1.17
+authors: [ CookieHunteRRR ]
+commands:
+  crew:
+    description: sos
+  admin:
+    description: sas
+  job:
+    description: sus
+  game:
+    description: ass
+  swapchannel:
+    description: Изменяет текстовый канал, в который будет отправляться сообщение (общий чат/союзный чат)
